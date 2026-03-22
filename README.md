@@ -1,8 +1,3 @@
-Here’s a **properly formatted GitHub README with bold headings, hierarchy, and clean styling** (no emojis, not AI-looking, and readable).
-
-You can paste this directly into `README.md`.
-
----
 
 # **ChurnGuard AI — Customer Retention & Revenue Risk Analytics**
 
