@@ -73,7 +73,7 @@ def train_model(df: pd.DataFrame):
         X, y, test_size=0.2, random_state=42, stratify=y
     )
 
-    # NOTE: use_label_encoder removed — deprecated since XGBoost 1.6
+
     model = XGBClassifier(
         n_estimators=100,
         learning_rate=0.05,
